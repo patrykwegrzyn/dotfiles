@@ -1,0 +1,42 @@
+[options]
+font  = Inconsolata  13
+[colors]
+# Base16 Default
+# Scheme: Chris Kempson (http://chriskempson.com)
+
+foreground      = #ABB2BF
+foreground_bold = #ABB2BF
+cursor          = #5C6370
+background      = #282C34
+
+# black
+color0  = #000000
+color8  = #5C6370
+
+# red 
+color1  = #e06c75
+color9  = #e06c75
+
+# green
+color2  = #98c379 
+color10 = #98c379 
+
+# yellow
+color3  = #D19A66
+color11 = #D19A66
+
+# blue
+color4  = #61AFEF
+color12 = #61AFEF
+
+# magenta
+color5  = #C678DD
+color13 = #C678DD
+
+# cyan
+color6  = #56B6C2 
+color14 = #56B6C2 
+
+# white
+color7  = #ABB2BF
+color15 = #FFFFFF 
