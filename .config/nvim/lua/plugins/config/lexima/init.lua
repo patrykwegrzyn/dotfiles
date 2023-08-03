@@ -1,0 +1,1 @@
+--vim.cmd([[call lexima#add_rule({'char': '"', 'at': '\%#\S\|\S\%#'})]], true)
